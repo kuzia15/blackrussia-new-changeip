@@ -2,7 +2,7 @@
 
 Author: DragosHack
 Architecture: armeabi-v7a
-requirement: ndk 25+
+Requirement: ndk 25+
 
 **Not for the current build.**
 
